@@ -1,0 +1,7 @@
+__pycache__
+*.log
+*.pkl
+venv
+data
+.idea
+runs
